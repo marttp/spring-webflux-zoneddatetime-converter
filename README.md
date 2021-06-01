@@ -3,9 +3,9 @@
 This project is created to show example to use converter between date and zoneddatetime
 
 ### Article
-[Medium](https://tpbabparn.medium.com/%E0%B8%99%E0%B8%B3-zoneddatetime-%E0%B8%A1%E0%B8%B2%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B9%83%E0%B8%99-spring-data-reactive-mongodb-910bf24ae880)
+[Medium - TH](https://tpbabparn.medium.com/%E0%B8%99%E0%B8%B3-zoneddatetime-%E0%B8%A1%E0%B8%B2%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B9%83%E0%B8%99-spring-data-reactive-mongodb-910bf24ae880)
 
-[dev.to](https://dev.to/marttp/use-zoneddatetime-in-spring-webflux-mongodb-reactive-1408)
+[dev.to - EN](https://dev.to/marttp/use-zoneddatetime-in-spring-webflux-mongodb-reactive-1408)
 
 ---
 
