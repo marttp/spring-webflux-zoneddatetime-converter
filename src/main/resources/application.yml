@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://root:123456789@localhost:27017/spring-zoneddatetime-db?authSource=admin
